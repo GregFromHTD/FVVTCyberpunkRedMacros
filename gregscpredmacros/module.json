@@ -1,0 +1,20 @@
+
+		{
+			"name": "gregscpredmacros",
+			"title": "Gregs cpRED Macros",
+			"description": "A Collection of macros for Gerdofals cpRED system",
+			"author": "Greg from HTD",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.7.0",
+			"compatibleCoreVersion":"0.7.7",
+			"packs": [
+    					{
+      					"name": "gregscpredmacros",
+      					"label": "Gregs cpRED Macros",
+      					"path": "./packs/gregs-cpred-macros.db",
+      					"entity": "Macro",
+      					"module": "Cyberpunk RED"
+						}
+					]
+		  }
+		
