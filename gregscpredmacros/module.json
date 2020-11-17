@@ -17,6 +17,6 @@
 						}
 					],
 			  	"url": "https://github.com/GregFromHTD/FVVTCyberpunkRedMacros.git",
-  			 	"manifest": "https://github.com/GregFromHTD/FVVTCyberpunkRedMacros/blob/main/gregscpredmacros/module.json",
-  			  	"download": "https://github.com/GregFromHTD/FVVTCyberpunkRedMacros.git"
+  			 	"manifest": "https://raw.githubusercontent.com/GregFromHTD/FVVTCyberpunkRedMacros/main/gregscpredmacros/module.json",
+  			  	"download": "https://github.com/GregFromHTD/FVVTCyberpunkRedMacros/archive/main.zip"
 		  }
